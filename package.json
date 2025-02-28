@@ -9,8 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "flowbite": "^3.1.2",
+    "flowbite-vue": "^0.1.9",
     "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "vue-router": "^4.5.0",
+    "vuetify": "^3.7.14"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
